@@ -1,26 +1,6 @@
 import { Github, Globe, Linkedin, Sparkles } from "lucide-react";
 
 const links = [
-  {
-    href: "https://sonnguyenhoang.com",
-    label: "Portfolio",
-    icon: Globe,
-  },
-  {
-    href: "https://github.com/hoangsonww",
-    label: "GitHub",
-    icon: Github,
-  },
-  {
-    href: "https://www.linkedin.com/in/hoangsonw/",
-    label: "LinkedIn",
-    icon: Linkedin,
-  },
-  {
-    href: "https://github.com/hoangsonww/Meadows-Social-Media/",
-    label: "Repo",
-    icon: Sparkles,
-  },
 ];
 
 export default function Footer() {
@@ -31,7 +11,7 @@ export default function Footer() {
       <div className="mx-auto flex w-full max-w-6xl flex-col gap-4 px-4 py-5 sm:px-6 lg:px-8">
         <div className="flex flex-col items-center gap-1 text-center sm:flex-row sm:items-center sm:justify-between sm:gap-3 sm:text-left">
           <p className="text-sm font-medium text-muted-foreground">
-            Meadows Social • Built with ❤️ by Son Nguyen
+            Meadows Social • Built by Son Nguyen
           </p>
           <p className="hidden text-xs font-semibold uppercase tracking-[0.14em] text-muted-foreground sm:block sm:text-right">
             {year}
