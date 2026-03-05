@@ -55,7 +55,6 @@ A full-featured social feed application built with Next.js, Supabase, and React 
 11. [Contributing](#contributing)
 12. [License](#license)
 13. [Acknowledgments](#acknowledgments)
-14. [Contact](#contact)
 
 ---
 
@@ -334,18 +333,6 @@ Please note that while this project is open-source, it is intended for education
 Big thanks to Prof. Ajay Gandecha at UNC-Chapel Hill for the inspiration and basic structure of this project. The original project was a simple social media app, and this version has been significantly expanded with additional features and improvements.
 
 Additionally, thanks to the open-source community for the libraries and tools that made this project possible, including Next.js, Supabase, React Query, Tailwind CSS, and many others.
-
----
-
-## Contact
-
-If you have any questions or feedback, feel free to reach out to me via either:
-
-- **Email**: [hoangson091104@gmail.com](mailto:hoangson091104@gmail.com)
-- **GitHub**: [hoangsonww](https://github.com/hoangsonww)
-- **LinkedIn**: [Son Nguyen](https://www.linkedin.com/in/hoangsonw/)
-
-I welcome contributions, suggestions, and any issues you may encounter while using this project. Your feedback is invaluable in making Meadows better for everyone!
 
 ---
 
